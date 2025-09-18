@@ -1,0 +1,50 @@
+h1 {
+  text-align: center;
+  font-size: 400%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 300%;
+}
+
+p {
+    text-align: right;
+    font-size: 200%;
+}
+
+div.list {
+    font-size: 150%;
+    margin-right: 0%;
+    max-width: 25%;
+}
+
+div.float {
+    float: right;
+    margin-left: 0%;
+}
+
+img.left {
+  float: left;
+  margin: 5px;
+  width: 20%;
+}
+
+img.right {
+  float: right;
+  width: 20%;
+}
+
+a {
+    font-size: 24px;
+    font-family: "Comic Sans MS"
+}
+
+figure {
+  text-align: end;
+  margin-top: 20%;
+}
+
+figcaption {
+  font-size: 100%;
+}
