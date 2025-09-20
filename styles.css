@@ -32,7 +32,7 @@ img.left {
 
 img.right {
   float: right;
-  width: 20%;
+  width: 100%;
 }
 
 a {
@@ -47,4 +47,5 @@ figure {
 
 figcaption {
   font-size: 100%;
+
 }
