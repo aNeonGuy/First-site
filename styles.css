@@ -27,7 +27,7 @@ div.float {
 img.left {
   float: left;
   margin: 5px;
-  width: 20%;
+  width: 50%;
 }
 
 img.right {
@@ -49,3 +49,4 @@ figcaption {
   font-size: 100%;
 
 }
+
