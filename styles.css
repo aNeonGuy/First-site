@@ -1,3 +1,11 @@
+body {
+  background-color: #F0E68C;
+}
+
+style {
+  font-family: 'Times New Roman';
+}
+
 h1 {
   text-align: center;
   font-size: 400%;
@@ -9,30 +17,39 @@ h2 {
 }
 
 p {
-    text-align: right;
+    text-align: justify;
     font-size: 200%;
+    margin: 10px;
+    right: 100%;
+}
+
+div {
+  margin: 10px;
 }
 
 div.list {
-    font-size: 150%;
+    font-size: 200%;
     margin-right: 0%;
-    max-width: 25%;
+    max-width: 50%;
+    margin: 10px;
+    padding: 5px;
 }
 
 div.float {
     float: right;
     margin-left: 0%;
+    margin: 10px;
 }
 
 img.left {
   float: left;
-  margin: 5px;
+  margin: 10px;
   width: 20%;
 }
 
 img.right {
   float: right;
-  width: 100%;
+  width: 150%;
 }
 
 a {
@@ -47,8 +64,12 @@ figure {
 
 figcaption {
   font-size: 100%;
-
 }
 
+ul {
+  text-align: justify;
+}
 
-
+ol {
+  text-align: justify;
+}
