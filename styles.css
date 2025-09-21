@@ -20,6 +20,12 @@ p {
     text-align: justify;
     font-size: 200%;
     margin: 10px;
+}
+
+p.one {
+    text-align: justify;
+    font-size: 200%;
+    margin: 10px;
     right: 100%;
 }
 
@@ -72,4 +78,5 @@ ul {
 
 ol {
   text-align: justify;
+
 }
